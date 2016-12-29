@@ -1,3 +1,3 @@
 # hello-world
 I did it
-github is pretty okay tbh fam
+Welcome to my project garage 
